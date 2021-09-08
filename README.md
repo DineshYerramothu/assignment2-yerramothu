@@ -32,8 +32,8 @@ Below are some of my favourite recomendations that you should try.
 | Food/Drink | Location | Cost
 | -- | -- | -- |
 | Burgundy Wine | France | $125  |
-| Chicken Chettinad | India  | $18 |
-| Naturals Ice Cream | India | $15 |
+| Chicken Chettinad | Chennai  | $18 |
+| Naturals Ice Cream | Mumbai | $15 |
 
 *****
 
