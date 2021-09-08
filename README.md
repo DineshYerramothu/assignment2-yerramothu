@@ -52,7 +52,7 @@ Below are some of my favourite recomendations that you should try.
 Search for connected components in a graph: (https://en.wikipedia.org/wiki/Component_(graph_theory))
 
 Sample Code as follows:
-
+```
 int n;
 vector<int> g[MAXN] ;
 bool used[MAXN] ;
@@ -81,7 +81,7 @@ void find_comps() {
             cout << endl ;
         }
 }
-
+```
 Link for the source code: (https://cp-algorithms.com/graph/search-for-connected-components.html)
 
 
