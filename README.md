@@ -39,6 +39,6 @@ Below are some of my favourite recomendations that you should try.
 
 # Pithy Quotes
 
-> "If you are good at something never do it for free." - The Joker 
+> "If you are good at something never do it for free." - **The Joker** 
 
-> "The deepest craving of human nature is the need to be appreciated." - Willam James
+> "The deepest craving of human nature is the need to be appreciated." - **Willam James**
