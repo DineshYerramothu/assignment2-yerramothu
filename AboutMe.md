@@ -7,5 +7,5 @@ I'm confidential that every person has their own point of view and worldview, wh
 4. Experience
 5. Perspective
 
-##Personality Development: 
-(Personality-development.jpg)
+ 
+![Personality Development](Personality-development.jpg)
