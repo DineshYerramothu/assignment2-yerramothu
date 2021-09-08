@@ -6,3 +6,6 @@ I'm confidential that every person has their own point of view and worldview, wh
 3. Creativity
 4. Experience
 5. Perspective
+
+Personality Development: 
+(C:\Users\S545504\Desktop\assignment2-yerramothu\Personality-development.jpg)
