@@ -22,7 +22,7 @@ Hyderabad is the state's largest and most well-known city. **This city's residen
 * Snacks
 
 
-[Click here to know about Me](https://github.com/DineshYerramothu/assignment2-yerramothu/blob/main/AboutMe.md)
+[Click here to know about Me](AboutMe.md)
 
 *****
 
@@ -36,3 +36,8 @@ Below are some of my favourite recomendations that you should try.
 | Naturals Ice Cream | India | $15 |
 
 *****
+
+# Pithy Quotes
+
+> "If you are good at something never do it for free." - The Joker
+> "The deepest craving of human nature is the need to be appreciated." - Willam James
