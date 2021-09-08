@@ -34,6 +34,7 @@ Below are some of my favourite recomendations that you should try.
 | Burgundy Wine | France | $125  |
 | Chicken Chettinad | Chennai  | $18 |
 | Naturals Ice Cream | Mumbai | $15 |
+| Nusr-Et Steak | Istanbul | $33 |
 
 *****
 
