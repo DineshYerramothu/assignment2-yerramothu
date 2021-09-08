@@ -10,3 +10,9 @@ Hyderabad is the state's largest and most well-known city. **This city's residen
 3. Check-in and board the flight in Kansas and relax for 2hrs(Approx) and you'll be reaching Chicago Airport.
 4. Check for next flight time and head to the terminal and wait at the lobby. 
 5. When the time is right, board your next flight and relax for 15hrs(Approx) and after reaching Doha. gohead for right terminal and check-in to last flight to reach Hyderbad.
+
+### Things required for travel
+* Camera
+* Powerbank and chargers
+* Laptop
+* Snacks
