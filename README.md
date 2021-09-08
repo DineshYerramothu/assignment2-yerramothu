@@ -23,3 +23,16 @@ Hyderabad is the state's largest and most well-known city. **This city's residen
 
 
 [Click here to know about Me](https://github.com/DineshYerramothu/assignment2-yerramothu/blob/main/AboutMe.md)
+
+*****
+
+# Victuals
+Below are some of my favourite recomendations that you should try.
+
+| Food/Drink | Location | Cost
+| -- | -- | -- |
+| Burgundy Wine | France | $125  |
+| Chicken Chettinad | India  | $18 |
+| Naturals Ice Cream | India | $15 |
+
+*****
