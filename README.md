@@ -22,4 +22,4 @@ Hyderabad is the state's largest and most well-known city. **This city's residen
 * Snacks
 
 
-[About Me](https://github.com/DineshYerramothu/assignment2-yerramothu/blob/main/AboutMe.md)
+[Click here to know about Me](https://github.com/DineshYerramothu/assignment2-yerramothu/blob/main/AboutMe.md)
